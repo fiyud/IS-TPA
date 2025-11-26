@@ -1,6 +1,4 @@
-# IS-TPA: Intelligent System for Traffic Police Action Recognition
-
-**Spatial-Temporal Dynamics Skeletal Graph-Based Human Action Recognition for Vietnamese Traffic Police Gestures**
+# Spatial-Temporal Dynamics Skeletal Graph-Based Human Action Recognition for Vietnamese Traffic Police Gestures
 
 ## 📋 Overview
 
