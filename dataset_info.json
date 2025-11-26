@@ -1,0 +1,79 @@
+{
+  "dataset_name": "Kinect v2 Skeleton Dataset",
+  "sensor": "Microsoft Kinect v2",
+  "num_classes": 9,
+  "classes": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "samples_per_class": {
+    "0": 15,
+    "1": 15,
+    "2": 15,
+    "3": 15,
+    "4": 15,
+    "5": 15,
+    "6": 15,
+    "7": 15,
+    "8": 15
+  },
+  "total_samples": 135,
+  "joints_per_skeleton": 25,
+  "joint_names": [
+    "SpineBase",
+    "SpineMid",
+    "Neck",
+    "Head",
+    "ShoulderLeft",
+    "ElbowLeft",
+    "WristLeft",
+    "HandLeft",
+    "ShoulderRight",
+    "ElbowRight",
+    "WristRight",
+    "HandRight",
+    "HipLeft",
+    "KneeLeft",
+    "AnkleLeft",
+    "FootLeft",
+    "HipRight",
+    "KneeRight",
+    "AnkleRight",
+    "FootRight",
+    "SpineShoulder",
+    "HandTipLeft",
+    "ThumbLeft",
+    "HandTipRight",
+    "ThumbRight"
+  ],
+  "coordinate_system": {
+    "X": "Horizontal (left-right)",
+    "Y": "Vertical (up-down)",
+    "Z": "Depth (distance from sensor)"
+  },
+  "tracking_states": {
+    "0": "NotTracked",
+    "1": "Inferred",
+    "2": "Tracked"
+  },
+  "units": "meters",
+  "fps": 30,
+  "file_format": "JSON",
+  "structure": {
+    "root": "organized_skeleton_dataset/",
+    "subdirectories": "[0-8]/",
+    "files": "class_[class_number]_[sample_number].json"
+  },
+  "statistics": {
+    "min_samples_per_class": 15,
+    "max_samples_per_class": 15,
+    "avg_samples_per_class": 15.0
+  }
+}
