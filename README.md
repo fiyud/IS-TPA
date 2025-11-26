@@ -22,7 +22,7 @@ In this research, we proposed the **International School - Traffic Police Action
 The dataset comprises 8 distinct traffic police gesture classes representing fundamental traffic control gestures commonly employed by Vietnamese traffic police officers
 
 ![IS-TPA Dataset Action Classes](src/dataset.png)
-*Figure: IS-TPA Dataset Action Class Descriptions*
+*Figure 1: IS-TPA Dataset Action Class Descriptions*
 
 ### Dataset Structure
 
@@ -41,13 +41,6 @@ Dataset/
 ├── 5/
 ├── 6/
 └── 7/
-```
-
-### Installation
-
-```bash
-git clone https://github.com/fiyud/IS-TPA.git
-cd IS-TPA
 ```
 
 ## 📄 License
