@@ -52,7 +52,7 @@ If you use this dataset or code in your research, please cite:
 ```bibtex
 @inproceedings{istpa2025,
   title={IS-TPA: Spatial-Temporal Dynamics Skeletal Graph-Based Human Action Recognition for Vietnamese Traffic Police Gestures},
-  author={Quang-Anh N.D., Mai-Hanh Nguyen Thi, Tien Dat Nguyen, Quoc Bao Doan,Ha Phuong Vu, Kieu Oanh Do Thi, Truong Linh Nguyen Thanh, Manh-Hung Ha},
+  author={Quang-Anh N.D., Mai-Hanh Nguyen Thi, Tien Dat Nguyen, Quoc Bao Doan, Ha Phuong Vu, Kieu Oanh Do Thi, Truong Linh Nguyen Thanh, Manh-Hung Ha},
   booktitle = {2nd Asia Meeting on Environment and Electrical Engineering},
   year={2025},
   publisher={IEEE},
